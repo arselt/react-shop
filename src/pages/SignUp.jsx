@@ -3,8 +3,8 @@ import '../styles/pages/SignUp.scss'
 
 const SignUp = () => {
     return (
-        <div className="login">
-            <div className="form-container">
+        <div className="SignUp">
+            <div className="SignUp-container">
                 <h1 className="title">My account</h1>
 
                 <form action="/" className="form">
