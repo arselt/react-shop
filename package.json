@@ -15,11 +15,13 @@
   "author": "Arath Astorga <arastorga@outlook.com>",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.24.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
+    "@babel/plugin-transform-runtime": "^7.16.0",
     "@babel/preset-env": "^7.15.8",
     "@babel/preset-react": "^7.14.5",
     "babel-loader": "^8.2.3",
